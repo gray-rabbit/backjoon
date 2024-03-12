@@ -1,0 +1,7 @@
+/.eslintrc.json
+/.vscode
+/.vscode-test.mjs
+/.vscodeignore
+/node_modules
+/out
+/package-lock.json
